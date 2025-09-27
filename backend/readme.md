@@ -1,3 +1,4 @@
+                                    How to Run the project..
 run 3 terminals:
 3 withing the backend folder..
 terminal 1:
